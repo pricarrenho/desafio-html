@@ -1,0 +1,40 @@
+body {
+  font-family: arial;
+}
+
+h1.title {
+  text-align: center;
+}
+
+h2.card-title {
+  color: white;
+}
+
+button.card-button {
+  background-color: #febe01;
+  color: #332200;
+  padding: 8px;
+  border-radius: 4px;
+  font-size: 16px;
+  font-weight: 600;
+}
+
+p.card-text {
+  color: #b2b2b2;
+}
+
+.card-container {
+  background-color: #111;
+  padding: 8px 16px 24px;
+  border-radius: 4px;
+  margin-bottom: 16px;
+}
+
+.container {
+  padding: 16px 48px;
+}
+
+span.price,
+.highlight {
+  color: #febe01;
+}
